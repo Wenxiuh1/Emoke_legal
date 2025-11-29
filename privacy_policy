@@ -27,6 +27,8 @@ emoke may automatically collect:
 - **Usage data**: How you interact with the app's features
 - **Crash reports**: Technical data to help us fix bugs and improve performance
 
+This information is processed only on your device as part of the app's normal operation and is not transmitted to us or to any remote server.
+
 ## How We Use Your Information
 
 We use the information we collect to:
@@ -46,7 +48,7 @@ We use the information we collect to:
 
 We implement appropriate technical and organizational measures to protect your information:
 
-- Data is stored securely on your device using industry-standard encryption
+- Data is stored as normal app data on your device and relies on your device's own security features (such as device lock and operating system protections)
 - We do not transmit your journal content over the internet
 - We do not share your emotional data with third parties
 
@@ -54,12 +56,9 @@ We implement appropriate technical and organizational measures to protect your i
 
 We do not sell, trade, or rent your personal information to third parties.
 
-We may share limited technical data with:
+Because your journal content is stored locally on your device and is not transmitted to our servers, we generally do not share it with anyone.
 
-- **Analytics providers**: To understand app usage and improve performance (anonymized data only)
-- **Crash reporting services**: To identify and fix technical issues (no personal journal content)
-
-We may disclose information if required by law or to protect our legal rights.
+We may disclose limited information only if required by law or to protect our legal rights (for example, information you voluntarily provide when contacting us by email).
 
 ## Your Rights and Choices
 
@@ -68,20 +67,16 @@ You have the following rights regarding your data:
 - **Access**: You can view all your journal entries within the app
 - **Deletion**: You can delete individual entries or all your data at any time
 - **Export**: You can request a copy of your data (feature coming soon)
-- **Opt-out**: You can disable analytics and crash reporting in the app settings
 
 ## Children's Privacy
 
-emoke is not intended for children under 13 years of age. We do not knowingly collect personal information from children under 13. If you believe we have collected information from a child under 13, please contact us immediately.
+emoke is not intended for children under 18 years of age. We do not knowingly collect personal information from children under 18. If you believe we have collected information from a child under 18, please contact us immediately.
 
 ## Third-Party Services
 
-emoke may use third-party services for:
+emoke does not currently use third-party analytics, advertising, or crash reporting services that receive your journal content.
 
-- Analytics (e.g., Firebase Analytics)
-- Crash reporting (e.g., Crashlytics)
-
-These services have their own privacy policies. We encourage you to review them.
+If this changes in the future, we will update this Privacy Policy to describe what services are used and for what purpose, and we will comply with any applicable consent requirements.
 
 ## Data Retention
 
